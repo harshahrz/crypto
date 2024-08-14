@@ -1,6 +1,3 @@
-Certainly! Here's the README.md content formatted appropriately:
-
-markdown
 # Cryptocurrency Price Tracker
 
 Welcome to the **Cryptocurrency Price Tracker**! This website is designed to help you stay informed about the latest trends in the cryptocurrency market, offering a range of features to keep you up-to-date with real-time prices, historical data, and detailed insights into various cryptocurrencies.
@@ -26,19 +23,19 @@ Welcome to the **Cryptocurrency Price Tracker**! This website is designed to hel
 To get started with the Cryptocurrency Price Tracker:
 
 1. **Clone the repository:**
-    bash
-    git clone https://github.com/yourusername/crypto-price-tracker.git
+    
+    `git clone https://github.com/harshahrz/crypto.git`
     
    
 2. **Install dependencies:**
-    bash
-    cd crypto-price-tracker
-    npm install
+   
+    `cd crypto
+    npm install`
     
 
 3. **Start the development server:**
-    bash
-    npm start
+    
+    `npm run dev`
     
 
 4. **Open the application:**
@@ -46,8 +43,7 @@ To get started with the Cryptocurrency Price Tracker:
 
 ## Technologies Used
 
-- **Frontend:** React.js, Chart.js
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js
 - **API:** CoinGecko API (for real-time data and price history)
 - **Styling:** CSS, Bootstrap
 
@@ -67,7 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out via email at [youremail@example.com](mailto:youremail@example.com).
+For any inquiries or feedback, feel free to reach out via email at brharshagowda9611@gmail.com
 
-
-This is how the README.md file will appear when rendered on GitHub or any markdown viewer. Make sure to update any placeholders like yourusername or youremail@example.com with actual details relevant to your project.
