@@ -25,7 +25,7 @@ const Home = () => {
 
   useEffect(() => {
     setDisplayCoin(allCoin);
-  }, [allCoin, currency]); // Add currency as a dependency
+  }, [allCoin, currency]);
 
   return (
     <div className='home'>
