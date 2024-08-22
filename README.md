@@ -57,13 +57,10 @@ We welcome contributions to enhance this project! Whether it's fixing bugs, addi
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a pull request
 
-<<<<<<< HEAD
-=======
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
->>>>>>> 7373a4ce7c9654a17f7cd31fd1ba6bd502f5f603
 ## Contact
 
 For any inquiries or feedback, feel free to reach out via email at brharshagowda9611@gmail.com
